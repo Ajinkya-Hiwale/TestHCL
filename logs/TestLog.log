@@ -1,0 +1,32 @@
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling web service to register the station
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling web service to register the station
+INFO main logg --- REGISTER SUCCESFULLY 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling web service to register the station
+INFO main logg --- REGISTER SUCCESFULLY 
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling web service to get the station details
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling web service to get the station details
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling web service to register the station
+INFO main logg --- Calling web service to delete the station
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling web service to register the station
+INFO main logg --- Calling web service to delete the station
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling web service to register the station
+INFO main logg --- Calling web service to delete the station
+INFO main logg --- Calling web service to delete the station
+INFO main logg --- Setting up data to hit weather web service
+INFO main logg --- Calling web service to register the station
+INFO main logg --- Calling web service to delete the station
+INFO main logg --- Calling web service to delete the station
+INFO main logg --- Launching Browser..
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Starting Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Scenario name is To verify if all prodcut detaila are correct
+INFO main logg --- Launching Website...
+INFO main logg --- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Ending Test>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+INFO main logg --- Closing Browser..
